@@ -15,7 +15,7 @@ context = ssl.create_default_context()
 
 server = smtplib.SMTP_SSL("smtp.gmail.com", port, context=context)
 
-server.login("menteharshith@gmail.com", "cenu bqfv jlor mqjs")
+server.login("menteharshith@gmail.com", enter_app_password)
 
 for index in range(len(emails)):
     # Create a multipart message container
