@@ -52,3 +52,6 @@ Contributions are welcome! Feel free to make this script a lot more efficient an
 
 ## 📝 License
 This project is licensed under the MIT License.
+
+![image](https://github.com/joeyyy09/cold-email-automator/assets/109957201/63066e33-3112-466b-a217-96a7e6df14ea)
+
