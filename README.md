@@ -50,5 +50,5 @@ python cold_email_automator.py
 ## 🤝 Contributing
 Contributions are welcome! Feel free to make this script a lot more efficient and add more features!
 
-##📝 License
+## 📝 License
 This project is licensed under the MIT License.
